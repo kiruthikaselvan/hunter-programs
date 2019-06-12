@@ -4,3 +4,5 @@ for i in list:
     if list.count(i)>1:
         print(i)
         break
+else:
+    print("unique")
